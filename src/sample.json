@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Aliens",
+        "director": "James Cameron",
+        "year": "1985",
+        "rating": "8.5"
+    },
+    {
+        "id": "2",
+        "title": "Batman",
+        "director": "Juan Perez",
+        "year": "2000",
+        "rating": "6"
+    }
+]
