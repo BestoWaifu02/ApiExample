@@ -1,7 +1,7 @@
 # Api Example
 
 ### Description
-> **An example developing a RestApi and consuming one Api with Fetch **
+> **An example developing a RestApi and consuming one Api with Fetch**
 
 ## Technologies employed
 
